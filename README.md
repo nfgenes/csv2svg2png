@@ -1,4 +1,4 @@
-# csv2svg2png
+# NFgenes 🧬⛓ - csv2svg2png
 Python scripts to convert NFgene source data from csv to SVG and PNG
 
 This library is a simple conversion utility to take the source data compiled for the NFgenes genesis mint and create an SVG and PNG file for each.
